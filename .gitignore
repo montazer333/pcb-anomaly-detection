@@ -1,0 +1,7 @@
+# Training and test datasets
+raw_data/
+raw_test_data/
+
+# Trained model
+patchcore_tr83031.ckpt
+

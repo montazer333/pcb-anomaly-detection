@@ -357,3 +357,11 @@ Add the license appropriate for your project here.
 This project uses the PatchCore implementation provided through the Anomalib framework.
 
 For research and implementation details, refer to the original PatchCore paper and the Anomalib project.
+
+---
+
+## Demo
+
+The following video demonstrates the complete PCB anomaly detection pipeline, including image alignment, PatchCore inference, anomaly scoring, and heatmap visualization.
+
+[▶️ Watch Demo Video](./demo.mp4)
